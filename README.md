@@ -76,5 +76,5 @@ The prediction model is a neural network trained on health data. It has been opt
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request. For major changes, please discuss them with us first to ensure they fit with the project's direction.
+Contributions are welcome! If you have suggestions for improvements or new features.
 
